@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 ubuntu ubuntu 4096 Aug 14 22:19 ./
+drwxr-xr-x 7 ubuntu ubuntu 4096 Aug 14 21:51 ../
+drwxrwxr-x 8 ubuntu ubuntu 4096 Aug 14 22:15 .git/
+-rw-rw-r-- 1 ubuntu ubuntu  104 Aug 14 22:14 readme.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 14 22:19 test.txt
